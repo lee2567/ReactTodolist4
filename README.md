@@ -6,6 +6,7 @@ https://lee2567.github.io/ReactTodolist4/
  에러 : github page 업로드가 안됌, page가 빈 화면으로 나타남, 경로를 못 찾음
 
 
+--------------------------------------------------------------------
  시도:
   "dependencies": 
   "react-beautiful-dnd": "^13.1.1",
